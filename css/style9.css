@@ -1,0 +1,92 @@
+.Hero
+{
+	padding:15px;
+	font-family: arial;
+	font-size: 15px;
+	letter-spacing: 1px
+}
+.hero h1{
+	text-shadow: red;
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+	color: blue;
+}
+.Hero ul
+{
+	background: #e3e3e3;
+	width: 100%;
+}
+li
+{
+	font-family: arial;
+	font-size: 15px;
+}
+
+
+.cotainer_12
+ {
+ 	background: red;
+ }
+ nav li
+  {display: inline;}
+
+ h6
+ {
+ 	width:100%;
+ 	background: pink;
+ 	margin-left: 0;
+ }
+ .primary p
+ {
+ 	font-family: aerial;
+ 	font-size:15px;
+ }
+
+
+
+ 
+ h6
+ {
+ 	font-family: sans-serif;
+ }
+ ul a{
+ 	text-decoration: none;
+ }
+ .grid_3
+ {
+ 	background-color: #e3e3e3;
+ 	margin-top: 20px;
+ 	margin-left:0;
+ 	letter-spacing: 1px;
+ }
+
+.wrap  img{
+	width: 200px;
+	height:200px;
+
+
+}
+.wrap1 img
+{ width: 400px;
+	height:500px;
+ }
+form{
+	text-align: center;
+}
+li a:hover {
+	color: green;
+}
+body{
+	background-image: 
+}
+.main p{
+	font-family: arial;
+	letter-spacing: 1px;
+	color:blue;
+}
+.wrap1 li{
+	font-family: arial;
+    color:black;
+    font-size: 20px;
+}
